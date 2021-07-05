@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Marcos.
 - I'm a software developer interested in new challenges.
-- Ask me about Reacjs.
+- Ask me about Reactjs.
 - Ask me about Nodejs
